@@ -1,0 +1,7 @@
+{
+  "name": "ORBITAL X — Autonomous Space Communication & Exoplanet Hunter",
+  "description": "Autonomous deep-space communication resilience network with procedural Dijkstra pathfinding and real-time exoplanet transit detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
